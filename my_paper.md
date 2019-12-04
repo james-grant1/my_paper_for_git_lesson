@@ -10,8 +10,6 @@ Reference my previous paper[1].
 
 ## Method
 
-Rigorous research methods for writing collaboratively.
-
 ## Results
 
 ## Conclusions
