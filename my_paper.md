@@ -2,7 +2,11 @@
 
 ## Abstract
 
+We will discuss why git is so amazing for version control.
+
 ## Introduction
+
+Reference my previous paper[1].
 
 ## Method
 
